@@ -62,7 +62,7 @@ The notebook downloads NLTK tokenizers (`punkt` / `punkttab`) automatically and 
 ## Data
 
 ### A) Tatoeba-style files (used for parallel EN–FR pairs)
-[Link Text](https://tatoeba.org)
+[Tatoeba Data](https://tatoeba.org)
 
 Place these files in `data/`:
 
@@ -73,7 +73,7 @@ The notebook loads them, filters `eng` and `fra`, then merges through links to b
 
 ### B) Europarl files (optional, used for bilingual dictionary extraction)
 
-[Link Text](https://www.statmt.org/europarl/v7/)
+[Europarl Data](https://www.statmt.org/europarl/v7/)
 If you run the dictionary extraction section, place these files in `data/`:
 
 - `europarl-v7.fr-en.en`
